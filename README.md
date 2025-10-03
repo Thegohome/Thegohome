@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Currrently learning Computer Science...
+
 <!--
 **Thegohome/Thegohome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
